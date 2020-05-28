@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-Boot-Jackson" />
+        <module name="Server-Provider2" />
+        <module name="Server-Provider1" />
+        <module name="Spring-Boot-Config" />
+        <module name="spring-batch-launcher" />
+        <module name="Eureka-Service (4)" />
+        <module name="Spring-Boot-AOP-Log" />
+        <module name="Spring-Boot-Shiro-Thymeleaf-Tag" />
+        <module name="demo (1)" />
+        <module name="Feign-Consumer (1)" />
+        <module name="Eureka-Service (9)" />
+        <module name="Eureka-Client" />
+        <module name="sso-server" />
+        <module name="server-consumer" />
+        <module name="Spring-Boot-Shiro-Authentication" />
+        <module name="Eureka-Service (8)" />
+        <module name="common-api (1)" />
+        <module name="server-provider (1) (com.example)" />
+        <module name="webflux" />
+        <module name="Zuul-Gateway" />
+        <module name="Spring-Boot-Devtools" />
+        <module name="provider (1)" />
+        <module name="demo (4)" />
+        <module name="Spring-Boot-Filter-Interceptor" />
+        <module name="Security (5)" />
+        <module name="Security (7)" />
+        <module name="consumer" />
+        <module name="Eureka-Service (3)" />
+        <module name="security" />
+        <module name="Spring-Boot-Shiro-Authorization" />
+        <module name="Ribbon-Consumer (2)" />
+        <module name="spring-batch-itemreader" />
+        <module name="Spring-Boot-JdbcTemplate" />
+        <module name="Spring-Boot-Shiro-RememberMe" />
+        <module name="Spring-Boot-JdbcTemplate-MultiDataSource" />
+        <module name="spring-batch-start" />
+        <module name="Eureka-Client (2)" />
+        <module name="Config-Server (1)" />
+        <module name="Eureka-Client (6)" />
+        <module name="Ribbon-Consumer" />
+        <module name="Spring-Boot-MyBatis" />
+        <module name="Eureka-Client (3)" />
+        <module name="Spring-Boot-Redis-Cache" />
+        <module name="Spring-Boot-Admin-Server" />
+        <module name="demo (1) (com.springboot)" />
+        <module name="consumer (1)" />
+        <module name="common-api" />
+        <module name="Eureka-Service (5)" />
+        <module name="Hystrix-Dashboard" />
+        <module name="Config-Server" />
+        <module name="server-provider (2)" />
+        <module name="Eureka-Service (2)" />
+        <module name="demo" />
+        <module name="Turbine" />
+        <module name="Security (4)" />
+        <module name="Turbine-Stream" />
+        <module name="spring-batch-listener" />
+        <module name="Spring-Boot-Swagger2" />
+        <module name="Spring-Boot-Mapper-PageHelper" />
+        <module name="Security" />
+        <module name="Hystrix-Dashboard (1)" />
+        <module name="Config-Client" />
+        <module name="spring-cloud-alibaba-sentinel-dashboard-guide" />
+        <module name="server-provider (1)" />
+        <module name="Spring-Boot-Thymeleaf" />
+        <module name="Security (3)" />
+        <module name="Eureka-Service (6)" />
+        <module name="Spring-Boot-Ehcache-Cache" />
+        <module name="Eureka-Service (1)" />
+        <module name="demo (2) (cc.mrbird)" />
+        <module name="Zipkin-Server" />
+        <module name="Ribbon-Consumer (3)" />
+        <module name="Feign-Consumer" />
+        <module name="demo (1) (cc.mrbird)" />
+        <module name="Server-Consumer" />
+        <module name="provider" />
+        <module name="Eureka-Client (1)" />
+        <module name="Spring-Boot-admin-Client" />
+        <module name="spring-batch-itemwriter" />
+        <module name="demo (3)" />
+        <module name="Eureka-Service" />
+        <module name="Spring-Boot-Testing" />
+        <module name="spring-batch-exception" />
+        <module name="SpringApplication" />
+        <module name="Eureka-Service (7)" />
+        <module name="sso-application-one" />
+        <module name="spring-cloud-alibaba-nacos-config" />
+        <module name="Security (2)" />
+        <module name="autoconfig" />
+        <module name="server-consumer (2)" />
+        <module name="Security (6)" />
+        <module name="validator" />
+        <module name="webflux (1)" />
+        <module name="Spring-Boot-Shiro-Redis" />
+        <module name="Spring-Boot-Actuator" />
+        <module name="spring-boot-websocket-socketjs" />
+        <module name="Spring-Boot-Email" />
+        <module name="Config-Client (1)" />
+        <module name="Spring-Boot-MyBatis-MultiDataSource" />
+        <module name="Ribbon-Consumer (1)" />
+        <module name="Spring-Boot-Shiro-Ehcache" />
+        <module name="demo (2)" />
+        <module name="Eureka-Client (5)" />
+        <module name="server-provider" />
+        <module name="security (2)" />
+        <module name="Eureka-Client (4)" />
+        <module name="Start-Spring-Boot" />
+        <module name="Spring-Boot-Exception" />
+        <module name="sso-application-two" />
+        <module name="common-api (2)" />
+        <module name="Security (1)" />
+        <module name="mongodb" />
+        <module name="spring-batch-itemprocessor" />
+        <module name="server-consumer (1)" />
+        <module name="server-consumer (1) (com.example)" />
+        <module name="security (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="autoconfig" target="1.5" />
+      <module name="common-api" target="1.8" />
+      <module name="common-api (1)" target="1.8" />
+      <module name="common-api (2)" target="1.8" />
+      <module name="Config-Client" target="1.8" />
+      <module name="Config-Client (1)" target="1.8" />
+      <module name="Config-Server" target="1.8" />
+      <module name="Config-Server (1)" target="1.8" />
+      <module name="consumer" target="1.5" />
+      <module name="consumer (1)" target="1.5" />
+      <module name="demo" target="1.5" />
+      <module name="demo (1)" target="1.5" />
+      <module name="demo (1) (cc.mrbird)" target="1.5" />
+      <module name="demo (1) (com.springboot)" target="1.7" />
+      <module name="demo (2)" target="1.5" />
+      <module name="demo (2) (cc.mrbird)" target="1.5" />
+      <module name="demo (3)" target="1.5" />
+      <module name="demo (4)" target="1.5" />
+      <module name="dubbo-boot" target="1.8" />
+      <module name="dubbo-boot (1)" target="1.8" />
+      <module name="dubbo-boot (2)" target="1.8" />
+      <module name="Eureka-Client" target="1.8" />
+      <module name="Eureka-Client (1)" target="1.8" />
+      <module name="Eureka-Client (2)" target="1.8" />
+      <module name="Eureka-Client (3)" target="1.8" />
+      <module name="Eureka-Client (4)" target="1.8" />
+      <module name="Eureka-Client (5)" target="1.8" />
+      <module name="Eureka-Client (6)" target="1.8" />
+      <module name="Eureka-Service" target="1.8" />
+      <module name="Eureka-Service (1)" target="1.8" />
+      <module name="Eureka-Service (2)" target="1.8" />
+      <module name="Eureka-Service (3)" target="1.8" />
+      <module name="Eureka-Service (4)" target="1.8" />
+      <module name="Eureka-Service (5)" target="1.8" />
+      <module name="Eureka-Service (6)" target="1.8" />
+      <module name="Eureka-Service (7)" target="1.8" />
+      <module name="Eureka-Service (8)" target="1.8" />
+      <module name="Eureka-Service (9)" target="1.8" />
+      <module name="Feign-Consumer" target="1.8" />
+      <module name="Feign-Consumer (1)" target="1.8" />
+      <module name="Hystrix-Dashboard" target="1.8" />
+      <module name="Hystrix-Dashboard (1)" target="1.8" />
+      <module name="mongodb" target="1.5" />
+      <module name="provider" target="1.5" />
+      <module name="provider (1)" target="1.5" />
+      <module name="Ribbon-Consumer" target="1.8" />
+      <module name="Ribbon-Consumer (1)" target="1.8" />
+      <module name="Ribbon-Consumer (2)" target="1.8" />
+      <module name="Ribbon-Consumer (3)" target="1.8" />
+      <module name="Security" target="1.8" />
+      <module name="security" target="1.5" />
+      <module name="Security (1)" target="1.8" />
+      <module name="security (1)" target="1.5" />
+      <module name="Security (2)" target="1.8" />
+      <module name="security (2)" target="1.5" />
+      <module name="Security (3)" target="1.8" />
+      <module name="Security (4)" target="1.8" />
+      <module name="Security (5)" target="1.8" />
+      <module name="Security (6)" target="1.8" />
+      <module name="Security (7)" target="1.8" />
+      <module name="server-consumer" target="1.8" />
+      <module name="Server-Consumer" target="1.8" />
+      <module name="server-consumer (1)" target="1.8" />
+      <module name="server-consumer (1) (com.example)" target="1.5" />
+      <module name="server-consumer (2)" target="1.8" />
+      <module name="server-provider" target="1.8" />
+      <module name="server-provider (1)" target="1.8" />
+      <module name="server-provider (1) (com.example)" target="1.5" />
+      <module name="server-provider (2)" target="1.8" />
+      <module name="Server-Provider1" target="1.8" />
+      <module name="Server-Provider2" target="1.8" />
+      <module name="spring-batch-exception" target="1.8" />
+      <module name="spring-batch-itemprocessor" target="1.8" />
+      <module name="spring-batch-itemreader" target="1.8" />
+      <module name="spring-batch-itemwriter" target="1.8" />
+      <module name="spring-batch-launcher" target="1.8" />
+      <module name="spring-batch-listener" target="1.8" />
+      <module name="spring-batch-start" target="1.8" />
+      <module name="Spring-Boot-Actuator" target="1.7" />
+      <module name="Spring-Boot-admin-Client" target="1.7" />
+      <module name="Spring-Boot-Admin-Server" target="1.7" />
+      <module name="Spring-Boot-AOP-Log" target="1.7" />
+      <module name="Spring-Boot-Config" target="1.7" />
+      <module name="Spring-Boot-Devtools" target="1.7" />
+      <module name="Spring-Boot-Ehcache-Cache" target="1.7" />
+      <module name="Spring-Boot-Email" target="1.7" />
+      <module name="Spring-Boot-Exception" target="1.8" />
+      <module name="Spring-Boot-Filter-Interceptor" target="1.8" />
+      <module name="Spring-Boot-Jackson" target="1.7" />
+      <module name="Spring-Boot-JdbcTemplate" target="1.7" />
+      <module name="Spring-Boot-JdbcTemplate-MultiDataSource" target="1.7" />
+      <module name="Spring-Boot-Mapper-PageHelper" target="1.7" />
+      <module name="Spring-Boot-MyBatis" target="1.7" />
+      <module name="Spring-Boot-MyBatis-MultiDataSource" target="1.7" />
+      <module name="Spring-Boot-Redis-Cache" target="1.7" />
+      <module name="Spring-Boot-Shiro-Authentication" target="1.7" />
+      <module name="Spring-Boot-Shiro-Authorization" target="1.7" />
+      <module name="Spring-Boot-Shiro-Ehcache" target="1.7" />
+      <module name="Spring-Boot-Shiro-Redis" target="1.7" />
+      <module name="Spring-Boot-Shiro-RememberMe" target="1.7" />
+      <module name="Spring-Boot-Shiro-Thymeleaf-Tag" target="1.7" />
+      <module name="Spring-Boot-Swagger2" target="1.7" />
+      <module name="Spring-Boot-Testing" target="1.7" />
+      <module name="Spring-Boot-Thymeleaf" target="1.7" />
+      <module name="spring-boot-websocket-socketjs" target="1.8" />
+      <module name="spring-cloud-alibaba-nacos-config" target="1.8" />
+      <module name="spring-cloud-alibaba-nacos-register" target="1.5" />
+      <module name="spring-cloud-alibaba-sentinel-dashboard-guide" target="1.8" />
+      <module name="spring-cloud-alibaba-sentinelresource" target="1.5" />
+      <module name="SpringApplication" target="1.5" />
+      <module name="sso" target="1.5" />
+      <module name="sso-application-one" target="1.5" />
+      <module name="sso-application-two" target="1.5" />
+      <module name="sso-server" target="1.5" />
+      <module name="Start-Spring-Boot" target="1.7" />
+      <module name="Turbine" target="1.8" />
+      <module name="Turbine-Stream" target="1.8" />
+      <module name="validator" target="1.5" />
+      <module name="webflux" target="1.5" />
+      <module name="webflux (1)" target="1.5" />
+      <module name="Zipkin-Server" target="1.8" />
+      <module name="Zuul-Gateway" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

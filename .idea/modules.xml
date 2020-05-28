@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/42.Spring-Cloud-Bus/config-client/Config-Client.iml" filepath="$PROJECT_DIR$/42.Spring-Cloud-Bus/config-client/Config-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41.Spring-Cloud-Config/config-client/Config-Client (1).iml" filepath="$PROJECT_DIR$/41.Spring-Cloud-Config/config-client/Config-Client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/42.Spring-Cloud-Bus/config-server/Config-Server.iml" filepath="$PROJECT_DIR$/42.Spring-Cloud-Bus/config-server/Config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41.Spring-Cloud-Config/config-server/Config-Server (1).iml" filepath="$PROJECT_DIR$/41.Spring-Cloud-Config/config-server/Config-Server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Eureka-Client/Eureka-Client.iml" filepath="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Eureka-Client/Eureka-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Client/Eureka-Client (1).iml" filepath="$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Client/Eureka-Client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/Eureka-Client (2).iml" filepath="$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Client/Eureka-Client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/Eureka-Client (3).iml" filepath="$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Client/Eureka-Client (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Client/Eureka-Client (4).iml" filepath="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Client/Eureka-Client (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Client/Eureka-Client (5).iml" filepath="$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Client/Eureka-Client (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Client/Eureka-Client (6).iml" filepath="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Client/Eureka-Client (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/42.Spring-Cloud-Bus/Eureka-Service/Eureka-Service.iml" filepath="$PROJECT_DIR$/42.Spring-Cloud-Bus/Eureka-Service/Eureka-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/41.Spring-Cloud-Config/Eureka-Service/Eureka-Service (1).iml" filepath="$PROJECT_DIR$/41.Spring-Cloud-Config/Eureka-Service/Eureka-Service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Eureka-Service/Eureka-Service (2).iml" filepath="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Eureka-Service/Eureka-Service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Eureka-Service/Eureka-Service (3).iml" filepath="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Eureka-Service/Eureka-Service (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Service/Eureka-Service (4).iml" filepath="$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Eureka-Service/Eureka-Service (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/Eureka-Service (5).iml" filepath="$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Eureka-Service/Eureka-Service (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Service/Eureka-Service (6).iml" filepath="$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Eureka-Service/Eureka-Service (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Service/Eureka-Service (7).iml" filepath="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Eureka-Service/Eureka-Service (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Service/Eureka-Service (8).iml" filepath="$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Eureka-Service/Eureka-Service (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Service/Eureka-Service (9).iml" filepath="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Eureka-Service/Eureka-Service (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Feign-Consumer/Feign-Consumer.iml" filepath="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Feign-Consumer/Feign-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/Feign-Consumer (1).iml" filepath="$PROJECT_DIR$/33.Spring-Cloud-Feign-Declarative-REST-Client/Feign-Consumer/Feign-Consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/Hystrix-Dashboard.iml" filepath="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Hystrix-Dashboard/Hystrix-Dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Hystrix-Dashboard/Hystrix-Dashboard (1).iml" filepath="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Hystrix-Dashboard/Hystrix-Dashboard (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Ribbon-Consumer/Ribbon-Consumer.iml" filepath="$PROJECT_DIR$/29.Spring-Cloud-Ribbon-LoadBalance/Ribbon-Consumer/Ribbon-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Ribbon-Consumer/Ribbon-Consumer (1).iml" filepath="$PROJECT_DIR$/30.Spring-Cloud-Hystrix-Circuit-Breaker/Ribbon-Consumer/Ribbon-Consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Ribbon-Consumer/Ribbon-Consumer (2).iml" filepath="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Ribbon-Consumer/Ribbon-Consumer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Ribbon-Consumer/Ribbon-Consumer (3).iml" filepath="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Ribbon-Consumer/Ribbon-Consumer (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/34.Start-Spring-Security/Security.iml" filepath="$PROJECT_DIR$/34.Start-Spring-Security/Security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/60.Spring-Security-Logout/Security (1).iml" filepath="$PROJECT_DIR$/60.Spring-Security-Logout/Security (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/38.Spring-Security-SmsCode/Security (2).iml" filepath="$PROJECT_DIR$/38.Spring-Security-SmsCode/Security (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/37.Spring-Security-RememberMe/Security (3).iml" filepath="$PROJECT_DIR$/37.Spring-Security-RememberMe/Security (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/61.Spring-security-Permission/Security (4).iml" filepath="$PROJECT_DIR$/61.Spring-security-Permission/Security (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/36.Spring-Security-ValidateCode/Security (5).iml" filepath="$PROJECT_DIR$/36.Spring-Security-ValidateCode/Security (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/35.Spring-Security-Authentication/Security (6).iml" filepath="$PROJECT_DIR$/35.Spring-Security-Authentication/Security (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/59.Spring-Security-SessionManager/Security (7).iml" filepath="$PROJECT_DIR$/59.Spring-Security-SessionManager/Security (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/Server-Consumer.iml" filepath="$PROJECT_DIR$/28.Spring-Cloud-Eureka-Server-Discovery/Server-Consumer/Server-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider1/Server-Provider1.iml" filepath="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider1/Server-Provider1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider2/Server-Provider2.iml" filepath="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Server-Provider2/Server-Provider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.Spring-Boot-AOP-Log/Spring-Boot-AOP-Log.iml" filepath="$PROJECT_DIR$/07.Spring-Boot-AOP-Log/Spring-Boot-AOP-Log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21.Spring-Boot-Actuator/Spring-Boot-Actuator.iml" filepath="$PROJECT_DIR$/21.Spring-Boot-Actuator/Spring-Boot-Actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Spring-Boot-Admin/Spring Boot Admin Server/Spring-Boot-Admin-Server.iml" filepath="$PROJECT_DIR$/23.Spring-Boot-Admin/Spring Boot Admin Server/Spring-Boot-Admin-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.Spring-Boot-Config/Spring-Boot-Config.iml" filepath="$PROJECT_DIR$/02.Spring-Boot-Config/Spring-Boot-Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24.Spring-Boot-Devtools/Spring-Boot-Devtools.iml" filepath="$PROJECT_DIR$/24.Spring-Boot-Devtools/Spring-Boot-Devtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.Spring-Boot-Ehcache-Cache/Spring-Boot-Ehcache-Cache.iml" filepath="$PROJECT_DIR$/10.Spring-Boot-Ehcache-Cache/Spring-Boot-Ehcache-Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22.Spring-Boot-Email/Spring-Boot-Email.iml" filepath="$PROJECT_DIR$/22.Spring-Boot-Email/Spring-Boot-Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25.Spring-Boot-Exception/Spring-Boot-Exception.iml" filepath="$PROJECT_DIR$/25.Spring-Boot-Exception/Spring-Boot-Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26.Spring-Boot-Filter-Interceptor/Spring-Boot-Filter-Interceptor.iml" filepath="$PROJECT_DIR$/26.Spring-Boot-Filter-Interceptor/Spring-Boot-Filter-Interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.Spring-Boot-Jackson/Spring-Boot-Jackson.iml" filepath="$PROJECT_DIR$/18.Spring-Boot-Jackson/Spring-Boot-Jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.Spring-Boot-JdbcTemplate/Spring-Boot-JdbcTemplate.iml" filepath="$PROJECT_DIR$/04.Spring-Boot-JdbcTemplate/Spring-Boot-JdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.Spring-Boot-JdbcTemplate-MultiDataSource/Spring-Boot-JdbcTemplate-MultiDataSource.iml" filepath="$PROJECT_DIR$/06.Spring-Boot-JdbcTemplate-MultiDataSource/Spring-Boot-JdbcTemplate-MultiDataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27.Spring-Boot-Mapper-PageHelper/Spring-Boot-Mapper-PageHelper.iml" filepath="$PROJECT_DIR$/27.Spring-Boot-Mapper-PageHelper/Spring-Boot-Mapper-PageHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.Spring-Boot-MyBatis/Spring-Boot-MyBatis.iml" filepath="$PROJECT_DIR$/03.Spring-Boot-MyBatis/Spring-Boot-MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.Spring-Boot-MyBatis-MultiDataSource/Spring-Boot-MyBatis-MultiDataSource.iml" filepath="$PROJECT_DIR$/05.Spring-Boot-MyBatis-MultiDataSource/Spring-Boot-MyBatis-MultiDataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09.Spring-Boot-Redis-Cache/Spring-Boot-Redis-Cache.iml" filepath="$PROJECT_DIR$/09.Spring-Boot-Redis-Cache/Spring-Boot-Redis-Cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11.Spring-Boot-Shiro-Authentication/Spring-Boot-Shiro-Authentication.iml" filepath="$PROJECT_DIR$/11.Spring-Boot-Shiro-Authentication/Spring-Boot-Shiro-Authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.Spring-Boot-Shiro-Authorization/Spring-Boot-Shiro-Authorization.iml" filepath="$PROJECT_DIR$/13.Spring-Boot-Shiro-Authorization/Spring-Boot-Shiro-Authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.Spring-Boot-Shiro-Ehcache/Spring-Boot-Shiro-Ehcache.iml" filepath="$PROJECT_DIR$/15.Spring-Boot-Shiro-Ehcache/Spring-Boot-Shiro-Ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.Spring-Boot-Shiro-Redis/Spring-Boot-Shiro-Redis.iml" filepath="$PROJECT_DIR$/14.Spring-Boot-Shiro-Redis/Spring-Boot-Shiro-Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.Spring-Boot-Shiro-RememberMe/Spring-Boot-Shiro-RememberMe.iml" filepath="$PROJECT_DIR$/12.Spring-Boot-Shiro-RememberMe/Spring-Boot-Shiro-RememberMe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.Spring-Boot-Shiro-Thymeleaf-Tag/Spring-Boot-Shiro-Thymeleaf-Tag.iml" filepath="$PROJECT_DIR$/16.Spring-Boot-Shiro-Thymeleaf-Tag/Spring-Boot-Shiro-Thymeleaf-Tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.Spring-Boot-Swagger2/Spring-Boot-Swagger2.iml" filepath="$PROJECT_DIR$/20.Spring-Boot-Swagger2/Spring-Boot-Swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19.Spring-Boot-Testing/Spring-Boot-Testing.iml" filepath="$PROJECT_DIR$/19.Spring-Boot-Testing/Spring-Boot-Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.Spring-Boot-Thymeleaf/Spring-Boot-Thymeleaf.iml" filepath="$PROJECT_DIR$/08.Spring-Boot-Thymeleaf/Spring-Boot-Thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23.Spring-Boot-Admin/Spring Boot Admin Client/Spring-Boot-admin-Client.iml" filepath="$PROJECT_DIR$/23.Spring-Boot-Admin/Spring Boot Admin Client/Spring-Boot-admin-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringAll.iml" filepath="$PROJECT_DIR$/.idea/SpringAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45.Spring-Boot-SpringApplication/SpringApplication.iml" filepath="$PROJECT_DIR$/45.Spring-Boot-SpringApplication/SpringApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01.Start-Spring-Boot/Start-Spring-Boot.iml" filepath="$PROJECT_DIR$/01.Start-Spring-Boot/Start-Spring-Boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Turbine/Turbine.iml" filepath="$PROJECT_DIR$/31.Spring-Cloud-Hystrix-Dashboard-Turbine/Turbine/Turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Turbine-Stream/Turbine-Stream.iml" filepath="$PROJECT_DIR$/32.Spring-Cloud-Hystrix-Dashboard-Turbine-RabbitMQ/Turbine-Stream/Turbine-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Zipkin-Server/Zipkin-Server.iml" filepath="$PROJECT_DIR$/43.Spring-Cloud-Sleuth/Zipkin-Server/Zipkin-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Zuul-Gateway/Zuul-Gateway.iml" filepath="$PROJECT_DIR$/39.Spring-Cloud-Zuul-Router/Zuul-Gateway/Zuul-Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44.Spring-Boot-Autoconfiguration/autoconfig.iml" filepath="$PROJECT_DIR$/44.Spring-Boot-Autoconfiguration/autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/common-api/common-api.iml" filepath="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/common-api/common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53.Dubbo-High-Availability/common-api/common-api (1).iml" filepath="$PROJECT_DIR$/53.Dubbo-High-Availability/common-api/common-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/common-api/common-api (2).iml" filepath="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/common-api/common-api (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/74.spring-cloud-alibaba-nacos-register/consumer/consumer.iml" filepath="$PROJECT_DIR$/74.spring-cloud-alibaba-nacos-register/consumer/consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/78.spring-cloud-alibaba-sentinelresource/consumer/consumer (1).iml" filepath="$PROJECT_DIR$/78.spring-cloud-alibaba-sentinelresource/consumer/consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/49.Spring-Boot-Async/demo.iml" filepath="$PROJECT_DIR$/49.Spring-Boot-Async/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54.Spring-Boot-Kafka/demo (1).iml" filepath="$PROJECT_DIR$/54.Spring-Boot-Kafka/demo (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/50.Spring-Regist-Bean/demo (1) (cc.mrbird).iml" filepath="$PROJECT_DIR$/50.Spring-Regist-Bean/demo (1) (cc.mrbird).iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.Spring-Boot-Shiro-Session/demo (1) (com.springboot).iml" filepath="$PROJECT_DIR$/17.Spring-Boot-Shiro-Session/demo (1) (com.springboot).iml" />
+      <module fileurl="file://$PROJECT_DIR$/62.Spring-Boot-Shiro-JWT/demo (2).iml" filepath="$PROJECT_DIR$/62.Spring-Boot-Shiro-JWT/demo (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/51.Spring-Bean-Lifecycle/demo (2) (cc.mrbird).iml" filepath="$PROJECT_DIR$/51.Spring-Bean-Lifecycle/demo (2) (cc.mrbird).iml" />
+      <module fileurl="file://$PROJECT_DIR$/48.Spring-Boot-CORS-Support/demo (3).iml" filepath="$PROJECT_DIR$/48.Spring-Boot-CORS-Support/demo (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/47.Spring-Boot-Content-Negotiation/demo (4).iml" filepath="$PROJECT_DIR$/47.Spring-Boot-Content-Negotiation/demo (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/dubbo-boot.iml" filepath="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/dubbo-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53.Dubbo-High-Availability/dubbo-boot (1).iml" filepath="$PROJECT_DIR$/53.Dubbo-High-Availability/dubbo-boot (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/dubbo-boot (2).iml" filepath="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/dubbo-boot (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/56.Spring-Boot-MongoDB-crud/mongodb.iml" filepath="$PROJECT_DIR$/56.Spring-Boot-MongoDB-crud/mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/74.spring-cloud-alibaba-nacos-register/provider/provider.iml" filepath="$PROJECT_DIR$/74.spring-cloud-alibaba-nacos-register/provider/provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/78.spring-cloud-alibaba-sentinelresource/provider/provider (1).iml" filepath="$PROJECT_DIR$/78.spring-cloud-alibaba-sentinelresource/provider/provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/63.Spring-Security-OAuth2-Guide/security.iml" filepath="$PROJECT_DIR$/63.Spring-Security-OAuth2-Guide/security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/65.Spring-Security-OAuth2-Config/security (1).iml" filepath="$PROJECT_DIR$/65.Spring-Security-OAuth2-Config/security (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/64.Spring-Security-OAuth2-Customize/security (2).iml" filepath="$PROJECT_DIR$/64.Spring-Security-OAuth2-Customize/security (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-consumer/server-consumer.iml" filepath="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-consumer/server-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53.Dubbo-High-Availability/server-consumer/server-consumer (1).iml" filepath="$PROJECT_DIR$/53.Dubbo-High-Availability/server-consumer/server-consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/55.Spring-Cloud-Consul/server-consumer/server-consumer (1) (com.example).iml" filepath="$PROJECT_DIR$/55.Spring-Cloud-Consul/server-consumer/server-consumer (1) (com.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/server-consumer/server-consumer (2).iml" filepath="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/server-consumer/server-consumer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-provider/server-provider.iml" filepath="$PROJECT_DIR$/52.Dubbo-OPS-Mointor/spring-boot-dubbo-applicaiton/server-provider/server-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53.Dubbo-High-Availability/server-provider/server-provider (1).iml" filepath="$PROJECT_DIR$/53.Dubbo-High-Availability/server-provider/server-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/55.Spring-Cloud-Consul/server-proivder/server-provider (1) (com.example).iml" filepath="$PROJECT_DIR$/55.Spring-Cloud-Consul/server-proivder/server-provider (1) (com.example).iml" />
+      <module fileurl="file://$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/server-provider/server-provider (2).iml" filepath="$PROJECT_DIR$/40.Spring-Boot-Dubbo-Zookeeper/server-provider/server-provider (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/72.spring-batch-exception/spring-batch-exception.iml" filepath="$PROJECT_DIR$/72.spring-batch-exception/spring-batch-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/70.spring-batch-itemprocessor/spring-batch-itemprocessor.iml" filepath="$PROJECT_DIR$/70.spring-batch-itemprocessor/spring-batch-itemprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/68.spring-batch-itemreader/spring-batch-itemreader.iml" filepath="$PROJECT_DIR$/68.spring-batch-itemreader/spring-batch-itemreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/69.spring-batch-itemwriter/spring-batch-itemwriter.iml" filepath="$PROJECT_DIR$/69.spring-batch-itemwriter/spring-batch-itemwriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/73.spring-batch-launcher/spring-batch-launcher.iml" filepath="$PROJECT_DIR$/73.spring-batch-launcher/spring-batch-launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/71.spring-batch-listener/spring-batch-listener.iml" filepath="$PROJECT_DIR$/71.spring-batch-listener/spring-batch-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/67.spring-batch-start/spring-batch-start.iml" filepath="$PROJECT_DIR$/67.spring-batch-start/spring-batch-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/76.spring-boot-websocket-socketjs/spring-boot-websocket-socketjs.iml" filepath="$PROJECT_DIR$/76.spring-boot-websocket-socketjs/spring-boot-websocket-socketjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75.spring-cloud-alibaba-nacos-config/spring-cloud-alibaba-nacos-config.iml" filepath="$PROJECT_DIR$/75.spring-cloud-alibaba-nacos-config/spring-cloud-alibaba-nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/74.spring-cloud-alibaba-nacos-register/spring-cloud-alibaba-nacos-register.iml" filepath="$PROJECT_DIR$/74.spring-cloud-alibaba-nacos-register/spring-cloud-alibaba-nacos-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/77.spring-cloud-alibaba-sentinel-dashboard-guide/spring-cloud-alibaba-sentinel-dashboard-guide.iml" filepath="$PROJECT_DIR$/77.spring-cloud-alibaba-sentinel-dashboard-guide/spring-cloud-alibaba-sentinel-dashboard-guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/78.spring-cloud-alibaba-sentinelresource/spring-cloud-alibaba-sentinelresource.iml" filepath="$PROJECT_DIR$/78.spring-cloud-alibaba-sentinelresource/spring-cloud-alibaba-sentinelresource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-one/sso-application-one.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-one/sso-application-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-two/sso-application-two.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-application-two/sso-application-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-server/sso-server.iml" filepath="$PROJECT_DIR$/66.Spring-Security-OAuth2-SSO/sso-server/sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46.Spring-Boot-Hibernate-Validator/validator.iml" filepath="$PROJECT_DIR$/46.Spring-Boot-Hibernate-Validator/validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57.Spring-Boot-WebFlux/webflux/webflux.iml" filepath="$PROJECT_DIR$/57.Spring-Boot-WebFlux/webflux/webflux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58.Spring-Boot-WebFlux-crud/webflux (1).iml" filepath="$PROJECT_DIR$/58.Spring-Boot-WebFlux-crud/webflux (1).iml" />
+    </modules>
+  </component>
+</project>
